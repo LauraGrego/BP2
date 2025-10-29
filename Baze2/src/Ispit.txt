@@ -1,0 +1,10 @@
+Id Ispit
+1 BP2
+2 PRS
+3 KDP
+4 OS1
+5 VLSI
+6 PIA
+7 PP1
+8 MIPS
+9 RM2 
